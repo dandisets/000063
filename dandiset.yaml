@@ -14,7 +14,8 @@ description: Intracellular current clamp recordings from resected human tissue f
   epilepsy surgeries. Originally recorded in ABF and converted to NWB.
 id: DANDI:000063/draft
 identifier: DANDI:000063
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000063/versions/draft/assets/
 name: UHN_human_heterogeneity
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
